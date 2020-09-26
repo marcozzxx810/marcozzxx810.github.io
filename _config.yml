@@ -16,13 +16,11 @@
 title: MarcoMak
 email: marcowingwing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Marco Mak personal profile page with programming tips and blog.
 github_username: marcozzxx810
 minimal_mistakes_skin: dark
 search: true
-
+google_site_verification: "-S1EFnxI-9dk4ZKr-ssJmISZ21ZUMuFZc5sIl53SK38"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
