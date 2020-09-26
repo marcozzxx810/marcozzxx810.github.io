@@ -16,7 +16,7 @@
 title: MarcoMak
 email: marcowingwing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Marco Mak personal profile page with programming tips and blog.
+  Marco Mak Chak Wing personal profile page with programming tips and blog.
 github_username: marcozzxx810
 minimal_mistakes_skin: dark
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Marco Mak"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a year 3 computer science HKU student, interesed in robotics and software engineering."
   location : "Hong Kong, Asia"
   links:
     - label: "Facebook"
