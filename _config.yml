@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Marco Mak"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I am a year 3 computer science HKU student, interesed in robotics and software engineering."
+  bio    : "year 3 computer science HKU student, interesed in robotics and software engineering."
   location : "Hong Kong, Asia"
   links:
     - label: "Facebook"
@@ -115,3 +115,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+#Google Social
+social:
+  type:  Person
+  name:  Mak Chak Wing Marco
+  links:
+    - "https://www.facebook.com/chakwing.mak/"
+    - "https://instagram.com/marcozzxx810"
+    - "https://www.linkedin.com/in/chak-wing-mak-a9826018b/"
+    - "https://github.com/marcozzxx810"
