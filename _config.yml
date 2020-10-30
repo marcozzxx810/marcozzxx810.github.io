@@ -21,6 +21,11 @@ github_username: marcozzxx810
 minimal_mistakes_skin: dark
 search: true
 google_site_verification: "-S1EFnxI-9dk4ZKr-ssJmISZ21ZUMuFZc5sIl53SK38"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-929FL9318R"
+    anonymize_ip: false # default
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
