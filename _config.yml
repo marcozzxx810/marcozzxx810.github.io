@@ -131,3 +131,8 @@ analytics:
   google:
     tracking_id: "G-094T24HRYV"
     anonymize_ip: false # default
+
+facebook:
+  username: "chakwing.mak"
+
+og_image: /assets/images/bio-photo.png
