@@ -3,8 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-I am Marco Mak, a year 3 computer science student in University of Hong Kong. I am passionate in robotic and software engineering project. I particiapte the DJI Robomaster competition as a core developer and internal secretary.
+Hey there! I am Marco Mak
 
-Apart from studying, I am also a gamer. I have been playing League of Legend for 10 years and I like to play open world game such as minecraft. Moreover, I also enjoy playing music. I am a guitarisit and I enjoy playing jazz and blue music.
+As an AI engineer and machine learning engineer, I love diving into the world of algorithms and neural networks, unraveling the mysteries of artificial intelligence. But that's not all—I'm also a total VR geek! You'll often find me lost in the immersive realms of SlimeVR, where I get to combine my passion for virtual reality with my technical expertise. When it comes to coding, I'm a full-stack engineer, comfortable juggling both front-end and back-end development.
 
-Feel to private message on linkedIn ! I will reply you one by one!
+Python and TypeScript are my trusty sidekicks, helping me bring ideas to life and create robust applications. So, whether I'm building intelligent models or crafting interactive virtual experiences, I'm always up for a challenge. Outside the tech realm, you'll catch me gaming my heart out—I've been a League of Legends player for a solid decade! And when I'm not saving the world in the virtual realm,
+
+I pick up my guitar and lose myself in the soothing melodies of jazz and blues. So, if you're looking for someone to geek out with over AI, VR, gaming, or just some good ol' music, hit me up! Let's chat and explore the wonders of the tech universe together.
