@@ -55,10 +55,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Marco Mak"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "year 3 computer science HKU student, interesed in robotics and software engineering."
-  location : "Hong Kong, Asia"
+  name: "Marco Mak"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "Intact AI Developer | NVIDIA Student Intern | Software Engineer | Machine Learning Engineer | Blockchain Enthusiast | Fintech Accelerator"
+  location: "Hong Kong, Asia"
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -118,8 +118,8 @@ tag_archive:
 
 #Google Social
 social:
-  type:  Person
-  name:  Mak Chak Wing Marco
+  type: Person
+  name: Mak Chak Wing Marco
   links:
     - "https://www.facebook.com/chakwing.mak/"
     - "https://instagram.com/marcozzxx810"
