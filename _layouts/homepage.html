@@ -2,10 +2,14 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <title>{{ site.title }} | {{ site.affiliation }}</title>
+    <meta name="description" content="{{ site.description }}" />
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="description" content="{{ site.title }}">
+
+    <meta itemprop="name" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta itemprop="description" content="{{ site.description }}">
+    <meta itemprop="image" content="{{ site.baseurl }}/{{ site.avatar }}">
     <meta name="keywords" content="{{ site.keywords }}">
 
     <meta property="og:type" content="website">
