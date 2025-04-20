@@ -8,7 +8,9 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Master's student at Peking University, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/). I completed my Bachelor's degree in Computer Science from [The University of Hong Kong (HKU)](https://hku.hk/). I have worked as an AI Developer at [Intact Lab](https://intactlab.ca/hong-kong/) since July 2022, developing full-stack AI systems with a focus on machine learning infrastructure and cloud-based solutions.
+I am an incoming Master's student at Peking University, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+
+I completed my Bachelor's degree in Computer Science from [The University of Hong Kong (HKU)](https://hku.hk/). I have worked as an AI Developer at [Intact Lab](https://intactlab.ca/hong-kong/) since July 2022, developing full-stack AI systems with a focus on machine learning infrastructure and cloud-based solutions.
 
 ## Research Interests
 
