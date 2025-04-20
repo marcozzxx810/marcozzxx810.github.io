@@ -6,12 +6,32 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), the [Coordinated Science Laboratory](https://csl.illinois.edu/), and the [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/).
+## About Me
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+I am an incoming Master's student at Peking University, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/). I completed my Bachelor's degree in Computer Science from [The University of Hong Kong (HKU)](https://hku.hk/). I have worked as an AI Developer at [Intact Lab](https://intactlab.ca/hong-kong/) since July 2022, developing full-stack AI systems with a focus on machine learning infrastructure and cloud-based solutions.
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/).
+## Research Interests
 
-{% include_relative _includes/news.md %}
+I explore how **multimodal large language models (LLMs)** and **generative AI** can revolutionize robotic perception and decision-making. My work focuses on:
 
-{% include_relative _includes/contact.md %}
+- Developing foundation models that fuse vision, language, and action for embodied intelligence
+
+- Leveraging generative techniques (e.g., diffusion models, LLM planners) to synthesize training data, simulate environments, and improve robotic adaptability
+
+- Building scalable frameworks where multimodal LLMs enable robots to interpret open-world instructions and generalize across tasks
+
+## Education
+
+- **Master's in Computer Science**, Peking University (2024.9–Current)
+- **Bachelor's in Artificial Intelligence**, University of Hong Kong (2018.9–2022.7)
+
+## Professional Experience
+
+- **AI Engineer**, IntactLab (2022.7-Current)
+- **Student Research Assistant**, Complex Neural Signals Decoding Lab in HKU (2021.2-2022.6)
+- **Student Intern -- Machine Learning**, NVIDIA (2021.6-2022.1)
+- **Software Engineer Intern**, Bowtie Life Insurance (2020.6-2020.9)
+
+## Miscellaneous
+
+In my free time, I enjoy competitive programming 💻, playing snooker 🎱, running 🏃, and table tennis 🏓. I also like playing guitar 🎸 to relax.

@@ -1,40 +1,38 @@
-# Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+# Basic Information
+title: Marco Mak
+position: Incoming Master's Student
+affiliation: Peking University
+affiliation_link: https://english.pku.edu.cn/
+affiliation_logo: assets/img/pku.png
+email: marcowingwing (at) gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: chakwing mak, mak chakwing, mak chak wing, marco mak, marcozzxx810
+canonical: https://marco-mak.com
+description: Marco Mak is a master student at Peking University. His research lies in generative AI and Multimodal Large Language Model.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=sMZoetAAAAAJ
+github_link: https://github.com/marcozzxx810
+linkedin: https://www.linkedin.com/in/marco-mak
+twitter: https://x.com/marcozzxx810
 
-# Images 
-avatar: https://img.yliu.me/avatar_new.jpg
-
-# Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+# Images
+avatar: assets/img/avatar.png
 
 # Analytics
-# Please remove the following lines about analytics services if you fork my project. 
+# Please remove the following lines about analytics services if you fork my project.
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+clustrmaps_id: JT_9V-adiGVBX89Jf7Bh7Kx7XH6wUPU5GFzTToZpBz4
+
+profile_counter_id: marco-mak
 
 # The following files will be removed from the generated website.
 exclude:
