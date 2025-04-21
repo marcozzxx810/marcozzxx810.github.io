@@ -24,7 +24,7 @@ I explore how **multimodal large language models (LLMs)** and **generative AI** 
 
 ## Education
 
-- **Master's in Computer Science**, Peking University (2024.9–Current)
+- **Master's in Computer Science**, Peking University (2025.9–Current)
 - **Bachelor's in Artificial Intelligence**, University of Hong Kong (2018.9–2022.7)
 
 ## Professional Experience
