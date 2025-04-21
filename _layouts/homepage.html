@@ -44,8 +44,6 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/pub.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/nav.css">
-
-    <link rel="stylesheet" href="https://cdn.brand.illinois.edu/illinois.css">
     
     <script src="{{ site.baseurl }}/assets/js/github-stars.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
@@ -66,13 +64,7 @@
 
    <script>
       function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "inline") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "inline";
-        
-      }
+        document.getElementById("myLinks").classList.toggle("show");
       }
 
       function reverseLinks() {
@@ -91,17 +83,19 @@
   <body>
     
     <div class="topnav">
-
-      <a href="{{ site.affiliation_link }}"><img width="100" src="{{ site.affiliation_logo }}"></a>
-
-      <div id="myLinks">
-      {% include navigation-home.md %}
+      <div class="topnav-container">
+        <div class="logo-container">
+          <a href="{{ site.affiliation_link }}"><img width="100" src="{{ site.affiliation_logo }}"></a>
+        </div>
+        
+        <div id="myLinks">
+          {% include navigation-home.md %}
+        </div>
+        
+        <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
+          <i class="fa fa-bars"></i>
+        </a>
       </div>
-
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
-        <i class="fa fa-bars"></i>
-      </a>
-      
     </div>
     
 
