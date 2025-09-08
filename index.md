@@ -8,19 +8,19 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Master's student at Peking University, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+I am an Master's student at Peking University, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
 I completed my Bachelor's degree in Computer Science from [The University of Hong Kong (HKU)](https://hku.hk/). I have worked as an AI Developer at [Intact Lab](https://intactlab.ca/hong-kong/) since July 2022, developing full-stack AI systems with a focus on machine learning infrastructure and cloud-based solutions.
 
 ## Research Interests
 
-I explore how **multimodal large language models (LLMs)** and **generative AI** can revolutionize robotic perception and decision-making. My work focuses on:
+I explore how **World Models** and **Vision-Language-Action (VLA) models** can revolutionize robotic perception and decision-making. My work focuses on:
 
-- Developing foundation models that fuse vision, language, and action for embodied intelligence
+- Developing **Vision-Language-Action (VLA) foundation models** that integrate visual perception, natural language understanding, and robotic control for embodied intelligence
 
-- Leveraging generative techniques (e.g., diffusion models, LLM planners) to synthesize training data, simulate environments, and improve robotic adaptability
+- Building **world models** that enable robots to simulate and predict environmental dynamics, supporting improved planning and decision-making in complex scenarios
 
-- Building scalable frameworks where multimodal LLMs enable robots to interpret open-world instructions and generalize across tasks
+- Creating **physical benchmarks for foundation models** to evaluate and validate robotic capabilities in real-world manipulation and navigation tasks, ensuring that generated video outputs align with real-world physics
 
 ## Education
 
