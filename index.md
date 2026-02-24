@@ -34,6 +34,8 @@ I explore how **World Models** and **Vision-Language-Action (VLA) models** can r
 - **Student Intern -- Machine Learning**, NVIDIA (2021.6-2022.1)
 - **Software Engineer Intern**, Bowtie Life Insurance (2020.6-2020.9)
 
+{% include_relative _includes/publications.md %}
+
 ## Miscellaneous
 
 In my free time, I enjoy competitive programming 💻, playing snooker 🎱, running 🏃, and table tennis 🏓. I also like playing guitar 🎸 to relax.
