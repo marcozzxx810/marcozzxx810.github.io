@@ -29,7 +29,7 @@ I explore how **World Models** and **Vision-Language-Action (VLA) models** can r
 
 ## Professional Experience
 
-- **AI Engineer**, IntactLab (2022.7-Current)
+- **AI Engineer**, IntactLab (2022.7-2025.5)
 - **Student Research Assistant**, Complex Neural Signals Decoding Lab in HKU (2021.2-2022.6)
 - **Student Intern -- Machine Learning**, NVIDIA (2021.6-2022.1)
 - **Software Engineer Intern**, Bowtie Life Insurance (2020.6-2020.9)
