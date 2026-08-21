@@ -29,10 +29,8 @@ avatar: assets/img/avatar.png
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project.
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: JT_9V-adiGVBX89Jf7Bh7Kx7XH6wUPU5GFzTToZpBz4
-
-profile_counter_id: marco-mak
+# Otherwise, the analytics information of your website will be recorded to my MapMyVisitors account.
+mapmyvisitors_id: AIfyYQaW27fX0nYDO8ja-HO3ZNdNEYY7rVuz-LHCZHo
 
 # The following files will be removed from the generated website.
 exclude:

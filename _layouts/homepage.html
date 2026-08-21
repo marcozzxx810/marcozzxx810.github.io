@@ -218,19 +218,11 @@
       
       </section>
       <footer>
-        <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-        {% if site.clustrmaps_id %}
-        <div style="width:100px; pointer-events: none;">
-          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d={{ site.clustrmaps_id }}"></script>
+        {% if site.mapmyvisitors_id %}
+        <div class="visitor-map">
+          <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}&amp;cl=13294b&amp;w=220&amp;t=tt&amp;co=f4f7fb&amp;cmo=3399cc&amp;cmn=e74d3c&amp;ct=595959"></script>
         </div>
         {% endif %}
-        {% if site.profile_counter_id %}
-        <div style="width:100px; pointer-events: none;">
-          <img src="https://profile-counter.deno.dev/{{ site.profile_counter_id }}/count.svg" alt="Key:: Visitor's Count" />
-          <br/>
-        </div>
-        {% endif %}
-        </div>
         <div style="font: 12px/1.2 Crimson Pro, serif">
         <p>
         <small>

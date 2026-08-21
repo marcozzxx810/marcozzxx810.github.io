@@ -1,4 +1,12 @@
 main:
+  - title: "Hierarchical Denoising For Multi-Step Visual Reasoning"
+    authors: Zezhong Qian, Xiaowei Chi, <strong>Chak-Wing Mak</strong>, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang
+    conference_short: arXiv 2026
+    conference: arXiv preprint, 2026
+    pdf: https://arxiv.org/pdf/2607.15278
+    page: https://hierarchical-diffusion-reasoning.github.io/
+    image: https://hierarchical-diffusion-reasoning.github.io/static/images/paper/paradigm.png
+
   - title: "PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction"
     authors: <strong>Chak-Wing Mak*</strong>, Guanyu Zhu*, Boyi Zhang*, Hongji Li, Xiaowei Chi, Kevin Zhang, Yichen Wu, Yangfan He, Chun-Kai Fan, Wentao Lu, Kuangzhi Ge, Xinyu Fang, Hongyang He, Kuan Lu, Tianxiang Xu, Li Zhang, Yongxin Ni, Youhua Li, Shanghang Zhang
     conference_short: In Submission

@@ -14,13 +14,11 @@ I completed my Bachelor's degree in Computer Science from [The University of Hon
 
 ## Research Interests
 
-I explore how **World Models** and **Vision-Language-Action (VLA) models** can revolutionize robotic perception and decision-making. My work focuses on:
+My research focuses on building intelligent systems that can understand and interact with the physical world:
 
-- Developing **Vision-Language-Action (VLA) foundation models** that integrate visual perception, natural language understanding, and robotic control for embodied intelligence
+- Building **general embodied world models** for physical understanding, prediction, planning, and decision-making across diverse tasks and environments
 
-- Building **world models** that enable robots to simulate and predict environmental dynamics, supporting improved planning and decision-making in complex scenarios
-
-- Creating **physical benchmarks for foundation models** to evaluate and validate robotic capabilities in real-world manipulation and navigation tasks, ensuring that generated video outputs align with real-world physics
+- Developing a **Real2Sim2Real robotic benchmark** to evaluate simulation fidelity, policy transfer, and real-world generalization *(stay tuned!)*
 
 ## Education
 
