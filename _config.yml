@@ -30,7 +30,7 @@ avatar: assets/img/avatar.png
 # Analytics
 # Please remove the following lines about analytics services if you fork my project.
 # Otherwise, the analytics information of your website will be recorded to my MapMyVisitors account.
-mapmyvisitors_id: AIfyYQaW27fX0nYDO8ja-HO3ZNdNEYY7rVuz-LHCZHo
+mapmyvisitors_id: U6TWHgbHUtEDOYthsX-gFJvVwkjoBjFmZseAaMCLNDU
 
 # The following files will be removed from the generated website.
 exclude:
